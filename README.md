@@ -56,5 +56,3 @@ print(response.json())
 - [FastAPI](https://fastapi.tiangolo.com/)
 - [SQLAlchemy](https://www.sqlalchemy.org/)
 
-## License
-This project is licensed under the MIT License.
